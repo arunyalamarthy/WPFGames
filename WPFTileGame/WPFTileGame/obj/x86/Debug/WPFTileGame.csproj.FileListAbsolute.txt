@@ -1,0 +1,15 @@
+c:\users\120003586\documents\visual studio 2010\Projects\WPFTileGame\WPFTileGame\bin\Debug\WPFTileGame.exe
+c:\users\120003586\documents\visual studio 2010\Projects\WPFTileGame\WPFTileGame\bin\Debug\WPFTileGame.pdb
+c:\users\120003586\documents\visual studio 2010\Projects\WPFTileGame\WPFTileGame\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\120003586\documents\visual studio 2010\Projects\WPFTileGame\WPFTileGame\obj\x86\Debug\MainWindow.baml
+c:\users\120003586\documents\visual studio 2010\Projects\WPFTileGame\WPFTileGame\obj\x86\Debug\MainWindow.g.cs
+c:\users\120003586\documents\visual studio 2010\Projects\WPFTileGame\WPFTileGame\obj\x86\Debug\App.g.cs
+c:\users\120003586\documents\visual studio 2010\Projects\WPFTileGame\WPFTileGame\obj\x86\Debug\WPFTileGame_MarkupCompile.cache
+c:\users\120003586\documents\visual studio 2010\Projects\WPFTileGame\WPFTileGame\obj\x86\Debug\WPFTileGame.g.resources
+c:\users\120003586\documents\visual studio 2010\Projects\WPFTileGame\WPFTileGame\obj\x86\Debug\WPFTileGame.Properties.Resources.resources
+c:\users\120003586\documents\visual studio 2010\Projects\WPFTileGame\WPFTileGame\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+c:\users\120003586\documents\visual studio 2010\Projects\WPFTileGame\WPFTileGame\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+c:\users\120003586\documents\visual studio 2010\Projects\WPFTileGame\WPFTileGame\obj\x86\Debug\WPFTileGame.exe
+c:\users\120003586\documents\visual studio 2010\Projects\WPFTileGame\WPFTileGame\obj\x86\Debug\WPFTileGame.pdb
+c:\users\120003586\documents\visual studio 2010\Projects\WPFTileGame\WPFTileGame\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+c:\users\120003586\documents\visual studio 2010\Projects\WPFTileGame\WPFTileGame\obj\x86\Debug\WPFTileGame_MarkupCompile.lref
